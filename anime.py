@@ -21,24 +21,29 @@ import pytz
 # put the URLs of the anime here
 urls = [
     # 'https://www.olevod.tv/details/4/50671',    # 家里蹲吸血姬的苦闷
-    'https://www.olevod.tv/details/4/48575',    # 黑暗集会
+    # 'https://www.olevod.tv/details/4/48575',    # 黑暗集会
     'https://www.olevod.tv/details/4/50657',    # 不死不幸
     'https://www.olevod.tv/details/4/50435',    # 葬送的芙莉莲
-    'https://www.olevod.tv/details/4/50631',    # 哥布林杀手 第二季
+    # 'https://www.olevod.tv/details/4/50631',    # 哥布林杀手 第二季
     # 'https://www.olevod.tv/details/4/50589',    # 16bit的感动
     # 'https://www.olevod.tv/details/4/51243',    # 关于我转生变成史莱姆这档事 彩叶草之梦
     # 'https://www.olevod.tv/details/4/48561',    # 僵尸100～变成僵尸之前想做的100件事
-    'https://www.olevod.tv/details/4/50701',    # 超超超超超喜歡你的 100 個女朋友
+    # 'https://www.olevod.tv/details/4/50701',    # 超超超超超喜歡你的 100 個女朋友
     'https://www.olevod.tv/details/4/50492',    # 香格里拉·开拓异境～粪作猎手挑战神作
     'https://www.olevod.tv/details/4/50485',    # 狩龙人拉格纳
-    'https://www.olevod.tv/details/4/50697',    # 间谍过家家 第二季
+    # 'https://www.olevod.tv/details/4/50697',    # 间谍过家家 第二季
     'https://www.olevod.tv/details/4/52816',    # 不是真正的伙伴被赶出勇者队伍 第二季
     'https://www.olevod.tv/details/4/52687',    # 实力至上主义的教室 第三季
     'https://www.olevod.tv/details/4/53009',    # 开除坦克异世界
     'https://www.olevod.tv/details/4/52792',    # 我独自升级
     'https://www.olevod.tv/details/1/52709',    # 梦想成为魔法少女
     'https://www.olevod.tv/details/4/52880',    # 恶役千金LV99
-    'https://www.olevod.tv/details/4/52794'     # 轮回七次的恶役千金
+    'https://www.olevod.tv/details/4/52794',    # 轮回七次的恶役千金
+    'https://www.olevod.tv/details/4/52850',    # 公主大人，接下来是“拷问”时间
+    'https://www.olevod.tv/details/4/52715',    # 魔都精兵的奴隶
+    'https://www.olevod.tv/details/4/52851',    # 愚蠢天使与恶魔共舞
+    'https://www.olevod.tv/details/4/51020',    # 药屋少女的呢喃
+    'https://www.olevod.tv/details/4/52926'     # 勇气爆发
 ]
 
 # Define the time interval (45 minutes in seconds)
